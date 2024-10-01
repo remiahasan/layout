@@ -1,16 +1,38 @@
-# belajar_flutter2
+Add the layout widget to the page
+![program Material apps](<Screenshot 2024-10-01 091112.png>)
+![hasil material apps](<Screenshot 2024-10-01 091104.png>)
 
-A new Flutter project.
+![program Cupertino apps](<Screenshot 2024-10-01 104404.png>)
+![hasil Cupertino apps](<Screenshot 2024-10-01 104412.png>)
 
-## Getting Started
+![program Non-Material apps](<Screenshot 2024-10-01 104705.png>)
+![hasil Non-Material apps](<Screenshot 2024-10-01 104656.png>)
 
-This project is a starting point for a Flutter application.
+![program row sudah di expan](<Screenshot 2024-10-01 113703.png>)
+![hasil row sudah di expan](<Screenshot 2024-10-01 113655.png>)
+![program columun sudah di expan](<Screenshot 2024-10-01 113821.png>)
+![hasil columun sudah di expan](<Screenshot 2024-10-01 113811.png>)
 
-A few resources to get you started if this is your first Flutter project:
+![program flax](<Screenshot 2024-10-01 114227.png>)
+![hasil flax](<Screenshot 2024-10-01 114217.png>)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![program Packing widgets](<Screenshot 2024-10-01 114916.png>)
+![hasil Packing widgets](<Screenshot 2024-10-01 114906.png>)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![hasil Nesting rows and columns](<Screenshot 2024-10-01 115714.png>)
+![program Nesting rows and columns](code.png)
+
+![program Container](code2.png)
+![hasil container](Screenshot_1727786289.png)
+
+![program GridView](code1.png)
+![hasil GridView](Screenshot_1727786489.png)
+
+![program ListView](code3.png)
+![hasil ListView](Screenshot_1727787193.png)
+
+![program Stack](code4.png)
+![hasil Stack](Screenshot_1727787551.png)
+
+![program Card](code5.png)
+![hasil Card](Screenshot_1727787730.png)
